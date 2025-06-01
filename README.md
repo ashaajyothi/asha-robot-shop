@@ -1,5 +1,10 @@
 # AshaRobotShop
 
+This is angular project.
+
+![image](https://github.com/user-attachments/assets/6da6256b-b72f-4b7d-84fd-4e0133b98b5f)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
 ## Development server
